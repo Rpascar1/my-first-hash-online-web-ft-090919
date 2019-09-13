@@ -1,5 +1,5 @@
 def my_hash
-hash = {:iceream = "sweet", :candy = "also sweet"}
+hash = {:iceream => "sweet", :candy => "also sweet"}
 end
 
 
